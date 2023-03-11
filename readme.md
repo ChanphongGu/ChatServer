@@ -36,15 +36,15 @@
 
 1、首先在服务端创建一个数据库叫 **test_connect**，再创建一个表叫 **user**保存用户名和密码，表有两个 VARCHAR 类型属性：**name**和 **password**，并将 **name**设为主键。
 
-2、然后修改 server.cpp 代码中的 ip 地址，更改为自己的服务器 ip 地址
+2、然后修改 server.cpp 代码中的 ip 地址，更改为自己的服务器 ip 地址。
 
-3、启动 Mysql、redis 服务
+3、启动 Mysql、redis 服务。
 
 4、执行 **make clean**命令清除旧目标代码，再执行**make**得到可执行文件 **client、server**。
 
-5、用一个终端先运行 **server**
+5、用一个终端先运行 **server**。
 
-6、再开另外一个或多个终端运行 **client**
+6、再开另外一个或多个终端运行 **client**。
 
 ## 压力测试
 
