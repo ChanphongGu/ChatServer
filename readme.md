@@ -36,7 +36,7 @@
 
 1、首先在服务端创建一个数据库叫 **test_connect**，再创建一个表叫 **user**保存用户名和密码，表有两个 VARCHAR 类型属性：**name**和 **password**，并将 **name**设为主键。
 
-2、然后修改 server.cpp 代码中的 ip 地址，更改为自己的服务器 ip 地址。
+2、然后修改 server.cpp 、 client.cpp 代码中的 ip 地址，更改为自己的服务器 ip 地址。
 
 3、启动 Mysql、redis 服务。
 
