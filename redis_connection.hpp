@@ -1,7 +1,7 @@
 /**
  * 描述：封装hiredis连接
  * 作者：guchenfeng
- * 日期：2023/1/11
+ * 日期：2022/12/11
  * 
 */
 #ifndef REDIS_CONNECTION_HPP

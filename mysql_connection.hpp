@@ -1,7 +1,7 @@
 /**
  * 描述：封装mysql连接
  * 作者：guchenfeng
- * 日期：2023/1/10
+ * 日期：2022/12/10
  * 
 */
 #ifndef MYSQL_CONNECTION_HPP
